@@ -1,0 +1,7 @@
+
+__pycache__/
+*.pyc
+*.part
+
+# The model files are downloaded automatically on first run (~129 MB)
+models/
